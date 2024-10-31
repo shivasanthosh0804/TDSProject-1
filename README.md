@@ -1,6 +1,6 @@
 # TDSProject-1 - This project was a part of my ToolsForDataScience Course 
 
-1. I have collected the data from GitHub API to find Developers in Austin City who have more than 100 followers on Github .I generated a csv file which would describe the developer community over there.
+1. I have collected the data from GitHub API to find Developers in Austin City who have more than 100 followers and their repositories on Github .I generated csv files which would describe the developer community over there.
 
 2. The most intresting fact that i found out was JavaScript was more widely used that Python
 
