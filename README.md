@@ -1,4 +1,4 @@
-# TDSProject-1 
+# TDSProject-1 - This project was a part of my ToolsForDataScience Course in my IITMBSDegree
 
 1. I have collected the data from GitHub API to find Developers in Austin who have more than 100 followers.I generated a csv file which would describe the developer community over there.
 
