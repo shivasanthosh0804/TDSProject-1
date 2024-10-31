@@ -1,0 +1,48 @@
+1. Who are the top 5 users in Austin with the highest number of followers? List their login in order, comma-separated.
+Users 
+>> getify,benawad,steveklabnik,cloudflare,jbogard
+2. Who are the 5 earliest registered GitHub users in Austin? List their login in ascending order of created_at, comma-separated.
+Users
+>> jnewland,joshknowles,hassox,jicksta,dan
+3. What are the 3 most popular license among these users? Ignore missing licenses. List the license_name in order, comma-separated.
+Licenses
+>> mit,apache-2.0,other
+4. Which company do the majority of these developers work at?
+Company (cleaned up as explained above)
+>> GOOGLE
+5. Which programming language is most popular among these users?
+Language
+>> JavaScript
+6. Which programming language is the second most popular among users who joined after 2020?
+Language
+>> TypeScript
+7. Which language has the highest average number of stars per repository?
+Language
+>> Fennel
+8. Let's define leader_strength as followers / (1 + following). Who are the top 5 in terms of leader_strength? List their login in order, comma-separated.
+User login
+>> getify,cloudflare,benawad,oracle,ContinuumIO
+9. What is the correlation between the number of followers and the number of public repositories among users in Austin?
+Correlation between followers and repos (to 3 decimal places, e.g. 0.123 or -0.123)
+>> 0.151
+10. Does creating more repos help users get more followers? Using regression, estimate how many additional followers a user gets per additional public repository.
+Regression slope of followers on repos (to 3 decimal places, e.g. 0.123 or -0.123)
+>> 4.104
+11. Do people typically enable projects and wikis together? What is the correlation between a repo having projects enabled and having wiki enabled?
+Correlation between projects and wiki enabled (to 3 decimal places, e.g. 0.123 or -0.123)
+>> 0.274
+12. Do hireable users follow more people than those who are not hireable?
+Average of following per user for hireable=true minus the average following for the rest (to 3 decimal places, e.g. 12.345 or -12.345)
+>> 109.041
+13. Some developers write long bios. Does that help them get more followers? What's the impact of the length of their bio (in Unicode words, split by whitespace) with followers? (Ignore people without bios)
+Regression slope of followers on bio word count (to 3 decimal places, e.g. 12.345 or -12.345)
+>> 7.785
+14. Who created the most repositories on weekends (UTC)? List the top 5 users' login in order, comma-separated
+Users login
+>> FellowTraveler,realityexpander,OR13,PaulBratslavsky,skeptycal
+15. Do people who are hireable share their email addresses more often?
+[fraction of users with email when hireable=true] minus [fraction of users with email for the rest] (to 3 decimal places, e.g. 0.123 or -0.123)
+>> 0.022
+16. Let's assume that the last word in a user's name is their surname (ignore missing names, trim and split by whitespace.) What's the most common surname? (If there's a tie, list them all, comma-separated, alphabetically)
+Most common surname(s)
+>> Labs,Moore,Smith
