@@ -5,6 +5,8 @@
 * I used GitHub API to collect the data of GitHub users in Austin with more than 100 followers. I used PythonLibrary **Requests** for making requests to GitHub API.I authenticated with my PersonalAccessToken and saved them into **users.csv** and **repositories.csv** files respectively.
 * Surprising to see that **JavaScript is more used than Python** suggesting that there is a **strong web development community** over there in Austin.
   **Large Number of repositories** states that they engage in a lot of **Open Source Contribution** mostly towards **Web Development**
+* I would recommend the users to update their email addresses so that it would be conatcted easily by the recruiter.
+   I would also suggest them to focus on Python and Artifical Intelligence ,Machine Learning and other DataScience related fields that are in high demand rightnow.
   
 ## An explanation of how you scraped the data
 
