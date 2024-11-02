@@ -4,7 +4,7 @@ Please Give me time . I'll be updating today i.e . nov 2
 
 ### BulletPoints
 
-* I used GitHub API to collect the data of GitHub users in Austin with more than 100 followers. I used PythonLibrary **Requests** for making requests to GitHub API.I authenticated with my PersonalAccessToken and saved them into **users.csv** and **repositories.csv** files respectively.
+* I used GitHub API to collect the data of GitHub users in Austin(Capital of Texas,USA) with more than 100 followers. I used PythonLibrary **Requests** for making requests to GitHub API.I authenticated with my PersonalAccessToken and saved them into **users.csv** and **repositories.csv** files respectively.
 * Surprising to see that **JavaScript is more used than Python** suggesting that there is a **strong web development community** over there in Austin.
   **Large Number of repositories** states that they engage in a lot of **Open Source Contribution** mostly towards **Web Development**
 * I would recommend the users to **update their email addresses** so that it would be **contacted easily by the recruiters**.
