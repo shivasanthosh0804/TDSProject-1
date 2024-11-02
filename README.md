@@ -20,7 +20,7 @@ To Scrape the Github Users Data in Austin(Capital CIty of Texas,USA).
 
 4. After some cleaning and processing I saved the data into "users.csv" and "repositories.csv" respectively.
    
-### The most interesting and surprising fact you found after analyzing the the data
+## The most interesting and surprising fact you found after analyzing the the data
 The most intresting facts that i found out are
 
 1.This shows Austin has highly active technical and software development community.University of Texas might have played a huge role in it.
@@ -35,7 +35,7 @@ The most surprising facts that i found out are
 
 3.Its very good to know that the users are concerned about their privacy as they are many few users who have listed their email address.
 
-### An actionable recommendation for developers based on your analysis
+## An actionable recommendation for developers based on your analysis
 
 Here are few recommendations to users in Austin 
 
