@@ -28,4 +28,13 @@ The most surprising facts that i found out are
 3.Its very good to know that the users are concerned about their privacy as they are many few users who have listed their email address.
 
 ### An actionable recommendation for developers based on your analysis
-3. Based on my analysis i would recommend developers to focus on opensource projects as that would not only help in building their own skills and resume but also help in making other peoples life better.
+
+Here are few recommendations to users in Austin 
+
+1.I would ask them to update their profiles with their personal email addresses so that the recruiter can contact them easily , thereby increasing the chances of hiring and maybe the employyed users percentage may increase.
+
+2.As the users are having a more number of repositories , i would suggest them to pin the repositories which they are confident about.
+
+3.This maybe a personal choice of the users but I would suggest the users of Austin to focus on Artificial Intelligence,Machine Learning and Data Science fields that would help them in the near future.
+
+####                               Thank You
