@@ -1,8 +1,15 @@
 # TDSProject-1 - This project was a part of my ToolsForDataScience Course 
 
 ## An explanation of how you scraped the data
-1. I have collected the data from GitHub API to find Developers in Austin City( Capital City of Texas,USA) who have more than 100 followers and their repositories on Github .I generated csv files which would describe the developer community over there.
+To Scrape the Github Users Data in Austin(Capital CIty of Texas,USA).
+1.I used Python and used its libraries - Requests and Pandas.
 
+2. I authenticated with my GithubPersonal AccessToken and searched for users in Austin with over 100 followers using GitHub API.
+
+3. I also got the data of the repositories of each users which i collected before.
+
+4. After some cleaning and processing I saved the data into "users.csv" and "repositories.csv" respectively.
+   
 ### The most interesting and surprising fact you found after analyzing the the data
 The most intresting facts that i found out are
 
