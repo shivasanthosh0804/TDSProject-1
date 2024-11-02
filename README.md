@@ -4,7 +4,7 @@
 
 To Scrape the Github Users Data in Austin(Capital CIty of Texas,USA).
 
-1.I used Python and used its libraries - Requests and Pandas.
+ 1.I used Python and used its libraries - Requests and Pandas.
 
 2. I authenticated with my GithubPersonal AccessToken and searched for users in Austin with over 100 followers using GitHub API.
 
