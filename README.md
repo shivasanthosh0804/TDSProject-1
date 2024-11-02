@@ -1,6 +1,5 @@
 # TDSProject-1 - This project was a part of my ToolsForDataScience Course 
 
-Please Give me time . I'll be updating today i.e . nov 2
 
 ### BulletPoints
 
