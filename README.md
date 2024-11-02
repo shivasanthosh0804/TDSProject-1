@@ -2,7 +2,7 @@
 
 ## BulletPoints
 
-### > I used GitHub API to collect the data of GitHub users in Austin with more than 100 followers.I used PythonLibrary **Requests** for making requests to GitHub API.I authenticated with my PersonalAccessToken and saved them into users.csv and repositories.csv files respectively.
+ > I used GitHub API to collect the data of GitHub users in Austin with more than 100 followers.I used PythonLibrary **Requests** for making requests to GitHub API.I authenticated with my PersonalAccessToken and saved them into users.csv and repositories.csv files respectively.
   
 ## An explanation of how you scraped the data
 
